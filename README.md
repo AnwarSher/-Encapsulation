@@ -1,2 +1,2 @@
-# -Encapsulation
+# Encapsulation
 Using OOP in Python
